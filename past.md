@@ -4,6 +4,7 @@ title: La Nostra Storia
 tagline: La storia di Mausset
 icon: history
 group: navigation
+lang: it
 ---
 {% include JB/setup %}
 

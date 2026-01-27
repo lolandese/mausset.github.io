@@ -2,6 +2,7 @@
 layout: page
 title: Gli Animali
 group: navigation
+lang: it
 ---
 
 ## Agriturismo con Animali: Capre, Pecore, Anatre, Oche e Galline

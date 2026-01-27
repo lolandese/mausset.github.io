@@ -4,6 +4,7 @@ title: La Nostra Filosofia
 tagline: Turismo Ecologico in Val Pellice
 icon: leaf
 group: navigation
+lang: it
 ---
 {% include JB/setup %}
 

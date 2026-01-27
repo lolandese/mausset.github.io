@@ -2,6 +2,7 @@
 layout: page
 title: Prezzi
 group: navigation
+lang: it
 ---
 
 ## Tariffe Agriturismo Mausset

@@ -2,6 +2,7 @@
 layout: page
 title: Le Stanze
 group: navigation
+lang: it
 ---
 
 ## Camere in Agriturismo in Val Pellice

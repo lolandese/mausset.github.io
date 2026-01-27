@@ -2,6 +2,7 @@
 layout: front
 title: Agriturismo Mausset
 tagline: Agriturismo in Val Pellice
+lang: it
 ---
 {% include JB/setup %}
 
@@ -19,10 +20,10 @@ Mentre i grandi possono rilassarsi nel giardino o ammirare il panorama stupendo,
 
 ## Contatti
 
-**Agriturismo Il Mausset**
-Borgata Maussa 10060 – Villar Pellice (To) – Italia
-E-mail: agriturismoilmausset@gmail.com
-Cell: (+39) 345.2622959
+**Agriturismo Il Mausset**  
+Borgata Maussa 10060 – Villar Pellice (To) – Italia  
+E-mail: agriturismoilmausset@gmail.com  
+Cell: (+39) 345.2622959  
 
 Lingue parlate: Italiano, Francese, Deutsch, English
 ---

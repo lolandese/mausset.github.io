@@ -2,6 +2,7 @@
 layout: page
 title: Gli Spazi
 group: navigation
+lang: it
 ---
 
 ## Agriturismo con Parcheggio, Cortile, Spazio per Bambini, Orto e Forno a Legna
