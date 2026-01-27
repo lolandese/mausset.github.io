@@ -6,7 +6,7 @@ icon: star
 ---
 <img src="assets/images/tomassi.jpg">
 
-Il piccolo mondo di Roberta Di Tomassi sotto le Alpi, poco oltre Villar Perosa. Vive per scelta in una frazione di Borgata Maussa che lei stessa ha fatto rinascere. Alleva animali, fa formaggi, da sola ha cresciuto 4 figli e ora scommette sull'agriturismo
+Il piccolo mondo di Roberta Di Tomassi sotto le Alpi, poco oltre Villar Pellice. Vive per scelta in una frazione di Borgata Maussa che lei stessa ha fatto rinascere. Alleva animali, fa formaggi, da sola ha cresciuto 4 figli e ora scommette sull'agriturismo
 
 Roberta Di Tomassi fa capolino dal suo laboratorio, avvertita dall'abbaiare dei cani. Per raggiungere la sua Azienda Agricola Montana nella frazione Mausset della Borgata Maussa ai piedi delle Alpi, si imbocca una stradina sterrata quando le case di Villar Pellice già si diradano, seguendo un'indicazione scritta a mano su un cartello di legno sospeso tra gli alberi.
 Roberta é una donna minuta, a prima vista fragile, ma in realtà forte da riuscire da sola a ridare vita a una borgata abbandonata in Val Pellice. Ora vive qui con Nadine, una delle sue figlie che ha deciso di seguire le orme di questa determinata mamma, e i loro pochi animali: dieci pecore e venti capre, da cui producono un ottimo formaggio.

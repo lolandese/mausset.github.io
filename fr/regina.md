@@ -6,7 +6,7 @@ icon: star
 ---
 <img src="../assets/images/tomassi.jpg">
 
-Le petit monde de Roberta Di Tomassi sous les Alpes, juste au-delà de Villar Perosa. Elle vit par choix dans un hameau de Borgata Maussa qu'elle a elle-même ressuscité. Elle élève des animaux, fait du fromage, a élevé seule 4 enfants et parie maintenant sur l'agriturismo.
+Le petit monde de Roberta Di Tomassi sous les Alpes, juste au-delà de Villar Pellice. Elle vit par choix dans un hameau de Borgata Maussa qu'elle a elle-même ressuscité. Elle élève des animaux, fait du fromage, a élevé seule 4 enfants et parie maintenant sur l'agriturismo.
 
 Roberta Di Tomassi sort la tête de son laboratoire, alertée par les aboiements des chiens. Pour atteindre sa Ferme Agricole de Montagne dans le hameau de Mausset de Borgata Maussa au pied des Alpes, vous empruntez un chemin de terre quand les maisons de Villar Pellice s'espacent déjà, en suivant une pancarte écrite à la main sur une planche de bois suspendue entre les arbres.
 Roberta est une petite femme, fragile au premier abord, mais en réalité assez forte pour ramener seule la vie à un hameau abandonné du Val Pellice. Elle vit maintenant ici avec Nadine, l'une de ses filles qui a décidé de suivre les traces de cette mère déterminée, et leurs rares animaux : dix moutons et vingt chèvres, dont elles produisent un excellent fromage.

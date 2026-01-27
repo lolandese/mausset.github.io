@@ -6,7 +6,7 @@ icon: star
 ---
 <img src="../assets/images/tomassi.jpg">
 
-The small world of Roberta Di Tomassi under the Alps, just beyond Villar Perosa. She lives by choice in a hamlet of Borgata Maussa that she herself has brought back to life. She raises animals, makes cheese, single-handedly raised 4 children and now is betting on agriturismo.
+The small world of Roberta Di Tomassi under the Alps, just beyond Villar Pellice. She lives by choice in a hamlet of Borgata Maussa that she herself has brought back to life. She raises animals, makes cheese, single-handedly raised 4 children and now is betting on agriturismo.
 
 Roberta Di Tomassi peeks out from her laboratory, alerted by the barking of dogs. To reach her Mountain Agricultural Company in the Mausset hamlet of Borgata Maussa at the foot of the Alps, you take a dirt road when the houses of Villar Pellice are already thinning out, following a hand-written sign on a wooden board suspended among the trees.
 Roberta is a petite woman, fragile at first glance, but actually strong enough to single-handedly bring life back to an abandoned hamlet in Val Pellice. She now lives here with Nadine, one of her daughters who decided to follow in the footsteps of this determined mother, and their few animals: ten sheep and twenty goats, from which they produce excellent cheese.

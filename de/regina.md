@@ -6,7 +6,7 @@ icon: star
 ---
 <img src="../assets/images/tomassi.jpg">
 
-Die kleine Welt von Roberta Di Tomassi unter den Alpen, kurz hinter Villar Perosa. Sie lebt bewusst in einem Weiler der Borgata Maussa, den sie selbst zum Leben erweckt hat. Sie züchtet Tiere, stellt Käse her, hat allein vier Kinder großgezogen und setzt jetzt auf Agriturismo.
+Die kleine Welt von Roberta Di Tomassi unter den Alpen, kurz hinter Villar Pellice. Sie lebt bewusst in einem Weiler der Borgata Maussa, den sie selbst zum Leben erweckt hat. Sie züchtet Tiere, stellt Käse her, hat allein vier Kinder großgezogen und setzt jetzt auf Agriturismo.
 
 Roberta Di Tomassi schaut aus ihrem Labor heraus, alarmiert durch das Bellen von Hunden. Um ihre Berglandwirtschaft im Mausset-Weiler der Borgata Maussa am Fuße der Alpen zu erreichen, nimmt man eine Feldstraße, wenn die Häuser von Villar Pellice bereits dünner werden, und folgt einem handgeschriebenen Schild auf einer zwischen den Bäumen aufgehängten Holztafel.
 Roberta ist eine zierliche Frau, auf den ersten Blick zerbrechlich, aber tatsächlich stark genug, um einen verlassenen Weiler im Val Pellice allein wieder zum Leben zu erwecken. Sie lebt hier jetzt mit Nadine, einer ihrer Töchter, die beschlossen hat, in die Fußstapfen dieser entschlossenen Mutter zu treten, und ihren wenigen Tieren: zehn Schafen und zwanzig Ziegen, aus denen sie vortrefflichen Käse produzieren.
