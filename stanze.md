@@ -5,12 +5,16 @@ group: navigation
 lang: it
 icon: bed
 ---
-
+<img src="assets/images/mausset-exterior.jpg" class="img-block">
 ## Camere in Agriturismo in Val Pellice
+
+<img src="assets/images/room-from-ouside.jpg" class="img-block">
 
 La Stanza dei Nonni, il soppalco dei Gatti, il Fienile Grosso, la Camera di Magna Marianna… qui a Mausset ogni camera ha il suo nome, la sua personalità, un suo stile.
 
 ### Servizi Disponibili
+
+<img src="assets/images/mausset-kitchen.jpg" class="img-block">
 
 A disposizione degli ospiti:
 - Due cucine attrezzate

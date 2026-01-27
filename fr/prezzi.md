@@ -6,6 +6,8 @@ lang: fr
 icon: euro
 ---
 
+<img src="/assets/images/mausset-panorama-no-text-v3.jpg" class="img-block">
+
 ## Tarifs Agriturismo Mausset
 
 ### Tarifs de Base pour 2 Personnes

@@ -5,12 +5,16 @@ group: navigation
 lang: fr
 icon: bed
 ---
-
+<img src="/assets/images/mausset-exterior.jpg" class="img-block">
 ## Chambres d'Hôtes en Agriturismo en Val Pellice
 
-Stanza dei Nonni, Soppalco dei Gatti, Fienile Grosso, Camera di Magna Marianna... ici au Mausset, chaque chambre a son propre nom, sa propre personnalité, son propre style.
+<img src="/assets/images/room-from-ouside.jpg" class="img-block">
+
+Stanza dei Nonni, Soppalco dei Gatti, Fienile Grosso, Camera di Magna Marianna... ici au Mausset, chaque chambre a son propre nom, sa propre personalité, son propre style.
 
 ### Services Disponibles
+
+<img src="/assets/images/mausset-kitchen.jpg" class="img-block">
 
 À la disposition des clients:
 - Deux cuisines équipées

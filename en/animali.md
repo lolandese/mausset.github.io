@@ -5,7 +5,7 @@ group: navigation
 lang: en
 icon: heart
 ---
-
+<img src="/assets/images/mausset-capre.jpg" class="img-block">
 ## Agriturismo with Animals: Goats, Sheep, Ducks, Geese and Chickens
 
 ### The Goats
@@ -15,6 +15,7 @@ Our goats all have a name, a strong personality and produce delicious milk. We s
 They produce milk from February to October, the months in which we make cheese. We follow the natural course of the seasons, observing the natural rest period (dry) because we do not wish to condition them artificially.
 
 The goats are the heart of the farm and are part of the history and identity of Mausset. Many guests return precisely to greet the goats who have by then become familiar with them!
+<img src="/assets/images/mausset-goats.jpg" class="img-block">
 
 ### Frabosane Sheep
 
@@ -23,14 +24,16 @@ We raise about ten Frabosane sheep for the production of breeding lambs and meat
 ### Ducks, Geese and Chickens
 
 Ducks, geese and chickens keep us company, provide us with eggs, meat and happily consume the scraps from our garden, contributing to the sustainable cycle of the farm.
+<img src="/assets/images/mausset-paperi.jpg" class="img-block">
 
-### Companion Dogs and Cats
+Other farmyard animals like chickens and geese complete the life of the village.
 
 Companion dogs and cats complete the animal park of the village, making the atmosphere even more welcoming and family-like for guests.
 
 ### The Philosophy of Our Animal Husbandry
 
 All animals at Mausset are raised according to natural and sustainable criteria. We do not impose artificial rhythms, but respect natural biological cycles. The animals have ample space to graze and move freely, living a life as natural as possible.
+<img src="/assets/images/mausset-chickens.jpg" class="img-block">
 
 ---
 

@@ -17,6 +17,7 @@ Um die 1960er Jahre wurde das Dorf endgültig aufgegeben und blieb etwa fünfzeh
 In den frühen 1980er Jahren traf er Roberta, mit der er später seine Familie gründete. Es wurden drei Kinder geboren und zusammen widmeten sie sich der Bienenzucht, Tierhaltung und Ziegenzucht sowie dem Anbau von Gärten und kleinen Obstgärten nach traditionellen Methoden ohne chemische Produkte.
 
 Durch den Verkauf ihrer Produkte konnten sie nach und nach das ganze Dorf kaufen, mit dem Wunsch, diesen Ort zu erneuern. Sie lernten, Brot zu backen und restaurierten den alten Ofen, konservierten Wildfrüchte und Gemüse aus eigener Produktion und stellten Käse aus der Milch ihrer eigenen Ziegen her.
+<img src="/assets/images/mausset-shoes.jpg" class="img-block">
 
 ### Die Gegenwart
 

@@ -5,7 +5,7 @@ group: navigation
 lang: fr
 icon: heart
 ---
-
+<img src="/assets/images/mausset-capre.jpg" class="img-block">
 ## Agriturismo avec Animaux: Chèvres, Moutons, Canards, Oies et Poules
 
 ### Les Chèvres
@@ -15,6 +15,7 @@ Nos chèvres ont toutes un nom, une forte personnalité et produisent un lait d�
 Elles produisent du lait de février à octobre, les mois durant lesquels nous fabriquons du fromage. Nous suivons le cours naturel des saisons, observant la période de repos naturelle (tarissement) car nous ne souhaitons pas les conditionner artificiellement.
 
 Les chèvres sont le cœur de l'exploitation et font partie de l'histoire et de l'identité de Mausset. De nombreux clients reviennent précisément pour saluer les chèvres qui sont devenues familières avec eux!
+<img src="/assets/images/mausset-goats.jpg" class="img-block">
 
 ### Moutons Frabosane
 
@@ -23,14 +24,16 @@ Nous élevons environ dix moutons Frabosane pour la production d'agneaux d'élev
 ### Canards, Oies et Poules
 
 Les canards, oies et poules nous tiennent compagnie, nous fournissent des œufs et de la viande et consomment volontiers les restes de notre jardin, contribuant au cycle durable de l'exploitation agricole.
+<img src="/assets/images/mausset-paperi.jpg" class="img-block">
 
-### Chiens et Chats de Compagnie
+D'autres animaux de basse-cour comme les poules et les oies complètent la vie du hameau.
 
 Les chiens et chats de compagnie complètent le parc animalier du hameau, rendant l'atmosphère encore plus accueillante et familiale pour les clients.
 
 ### La Philosophie de Notre Élevage
 
 Tous les animaux du Mausset sont élevés selon des critères naturels et durables. Nous n'imposons pas de rythmes artificiels, mais respectons les cycles biologiques naturels. Les animaux ont beaucoup d'espace pour paître et se déplacer librement, vivant une vie aussi naturelle que possible.
+<img src="/assets/images/mausset-chickens.jpg" class="img-block">
 
 ---
 

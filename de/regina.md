@@ -4,7 +4,7 @@ title: Die Königin der Ziegen
 lang: de
 icon: star
 ---
-<img src="../assets/images/tomassi.jpg">
+<img src="../assets/images/tomassi.jpg" class="img-block">
 
 Die kleine Welt von Roberta Di Tomassi unter den Alpen, kurz hinter Villar Pellice. Sie lebt bewusst in einem Weiler der Borgata Maussa, den sie selbst zum Leben erweckt hat. Sie züchtet Tiere, stellt Käse her, hat allein vier Kinder großgezogen und setzt jetzt auf Agriturismo.
 

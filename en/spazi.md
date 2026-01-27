@@ -11,10 +11,13 @@ icon: tree
 ### The Ancient Oven
 
 Ancient wood-fired oven in perfect working order, it can be used upon request to bake bread products or bread up to 50kg. Covered courtyard with various uses. There is a small bathroom with shower.
+<img src="/assets/images/mausset-forno.jpg" class="img-block">
 
 ### Vegetable Garden
 
 During the productive season and depending on availability, guests can purchase garden produce grown according to traditional methods.
+<img src="/assets/images/mausset-orto.jpg" class="img-block">
+<img src="/assets/images/mausset-flowers.jpg" class="img-block">
 
 ### The Courtyards
 

@@ -4,7 +4,7 @@ title: La regina delle capre
 lang: it
 icon: star
 ---
-<img src="assets/images/tomassi.jpg">
+<img src="assets/images/tomassi.jpg" class="img-block">
 
 Il piccolo mondo di Roberta Di Tomassi sotto le Alpi, poco oltre Villar Pellice. Vive per scelta in una frazione di Borgata Maussa che lei stessa ha fatto rinascere. Alleva animali, fa formaggi, da sola ha cresciuto 4 figli e ora scommette sull'agriturismo
 

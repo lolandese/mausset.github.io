@@ -18,6 +18,8 @@ All'inizio degli anni 80 conobbe Roberta con la quale, in seguito, formò la sua
 
 Vendendo i loro prodotti poterono, poco alla volta, acquistare l'intera frazione con il desiderio di far rinascere questo posto. Impararono a fare il pane, ripristinando il vecchio forno, a conservare frutti selvatici e ortaggi di loro produzione, a fare formaggi con il latte delle proprie capre.
 
+<img src="/assets/images/mausset-shoes.jpg" class="img-block">
+
 ### Il Presente
 
 Ora Gianfranco non c'è più, prematuramente scomparso. Ci siamo noi: Roberta, Ben, Nadine con Diana ed Elena e ogni tanto Sole.

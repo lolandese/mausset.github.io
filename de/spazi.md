@@ -11,10 +11,13 @@ icon: tree
 ### Der Antike Ofen
 
 Antiker Holzofen in perfektem Arbeitszustand, kann auf Anfrage zum Backen von Backwaren oder Brot bis zu 50kg verwendet werden. Überdachter Innenhof mit verschiedenen Nutzungsmöglichkeiten. Es gibt ein kleines Badezimmer mit Dusche.
+<img src="/assets/images/mausset-forno.jpg" class="img-block">
 
 ### Gemüsegarten
 
 In der produktiven Jahreszeit und je nach Verfügbarkeit können Gäste Gartenprodukte kaufen, die nach traditionellen Methoden angebaut werden.
+<img src="/assets/images/mausset-orto.jpg" class="img-block">
+<img src="/assets/images/mausset-flowers.jpg" class="img-block">
 
 ### Die Innenhöfe
 

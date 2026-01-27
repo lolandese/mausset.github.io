@@ -17,6 +17,7 @@ Around the 1960s the hamlet was definitively abandoned, remaining uninhabited fo
 In the early 1980s he met Roberta with whom he later formed his family. Three children were born and together they dedicated themselves to raising bees, farm animals and goats, as well as cultivating gardens and small orchards with traditional methods without the use of chemical products.
 
 By selling their products they were able, little by little, to purchase the entire hamlet with the desire to revive this place. They learned to make bread, restoring the old oven, to preserve wild fruits and vegetables of their own production, to make cheese with the milk from their own goats.
+<img src="/assets/images/mausset-shoes.jpg" class="img-block">
 
 ### The Present
 

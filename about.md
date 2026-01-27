@@ -7,7 +7,7 @@ group: navigation
 lang: it
 ---
 {% include JB/setup %}
-
+<img src="/assets/images/mausset-panorama-no-text-v3.jpg">
 ## Agriturismo in Mezzo alla Natura in Val Pellice
 
 Abbiamo deciso di dare ospitalità per mettere a disposizione di persone amanti e rispettose della Natura questo luogo incontaminato e per supplire alla nostra impossibilità di spostarci a causa degli animali, avendo così egualmente l'opportunità di conoscere gente ed organizzazioni con le quali avere degli scambi.
@@ -15,6 +15,10 @@ Abbiamo deciso di dare ospitalità per mettere a disposizione di persone amanti 
 ### Strutture Ecologiche
 
 Gli ospiti avranno a disposizione spazi costruiti con materiali locali quali pietra e legno, interamente ristrutturati ed alimentati da impianti fotovoltaici. I tetti sono coibentati con fibra di legno che assicura l'isolamento, ma permette di far "respirare" gli ambienti, mentre gli infissi a doppia camera limitano gli sbalzi di temperatura. I letti in lattice e il silenzio, assicurano un buon sonno.
+
+<img src="/assets/images/mausset-solar-panels.jpg" class="img-block">
+
+<img src="/assets/images/mausset-roof.jpg" class="img-block">
 
 Per cucinare, oltre a moderne cucine a gas ed elettriche sono anche presenti cucine economiche a legna (poutagè). L'acqua potabile arriva da una fonte sorgiva, mentre la raccolta dell'acqua piovana contribuisce all'irrigazione.
 

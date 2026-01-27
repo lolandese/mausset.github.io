@@ -4,7 +4,7 @@ title: The Queen of Goats
 lang: en
 icon: star
 ---
-<img src="../assets/images/tomassi.jpg">
+<img src="../assets/images/tomassi.jpg" class="img-block">
 
 The small world of Roberta Di Tomassi under the Alps, just beyond Villar Pellice. She lives by choice in a hamlet of Borgata Maussa that she herself has brought back to life. She raises animals, makes cheese, single-handedly raised 4 children and now is betting on agriturismo.
 

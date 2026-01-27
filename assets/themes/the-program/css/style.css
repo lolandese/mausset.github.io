@@ -470,6 +470,14 @@ img {
   float: left;
   margin-right: 0.78125em;
 }
+img.img-block {
+  display: block !important;
+  float: none !important;
+  clear: both !important;
+  margin-right: 0 !important;
+  width: 100%;
+  margin-bottom: 1.5625em;
+}
 small,
 .small,
 aside {
@@ -1087,7 +1095,7 @@ span.signs {
   }
 }
 /*
-	Not that old computer layout 
+	Not that old computer layout
 */
 @media only screen and (min-width: 1024px) {
   .the-header .unit-head .nav-global .logo {
@@ -1130,7 +1138,7 @@ span.signs {
   }
 }
 /*
-	Huge-screen layout 
+	Huge-screen layout
 */
 @media only screen and (min-width: 1280px) {
   #page {

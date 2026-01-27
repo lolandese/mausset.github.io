@@ -5,12 +5,16 @@ group: navigation
 lang: en
 icon: bed
 ---
-
+<img src="/assets/images/mausset-exterior.jpg" class="img-block">
 ## Guest Rooms in Agriturismo in Val Pellice
+
+<img src="/assets/images/room-from-ouside.jpg" class="img-block">
 
 Stanza dei Nonni, Soppalco dei Gatti, Fienile Grosso, Camera di Magna Marianna... here at Mausset each room has its own name, its own personality, its own style.
 
 ### Available Services
+
+<img src="/assets/images/mausset-kitchen.jpg" class="img-block">
 
 At the disposal of guests:
 - Two equipped kitchens

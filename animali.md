@@ -5,7 +5,7 @@ group: navigation
 lang: it
 icon: heart
 ---
-<img src="/assets/images/mausset-paperi.jpg">
+<img src="assets/images/mausset-capre.jpg" class="img-block">
 ## Agriturismo con Animali: Capre, Pecore, Anatre, Oche e Galline
 
 ### Le Capre
@@ -15,6 +15,7 @@ Le nostre capre hanno tutte un nome, una forte personalità e fanno un latte del
 Fanno latte da febbraio a ottobre, mesi nei quali produciamo formaggio. Seguiamo il corso naturale delle stagioni osservando il naturale periodo di riposo (asciutta) perché non desideriamo condizionarle.
 
 Le capre rappresentano il cuore dell'azienda e sono parte della storia e dell'identità di Mausset. Molti ospiti ritornano proprio per salutare le capre che nel frattempo hanno preso dimestichezza con loro!
+<img src="/assets/images/mausset-goats.jpg" class="img-block">
 
 ### Pecore Frabosane
 
@@ -24,6 +25,10 @@ Alleviamo una decina di pecore Frabosane per la produzione di agnelli da allevam
 
 Anatre, oche e galline ci tengono compagnia, ci forniscono uova, carne e ben felici consumano gli scarti del nostro orto, contribuendo al ciclo sostenibile dell'azienda agricola.
 
+<img src="/assets/images/mausset-paperi.jpg" class="img-block">
+
+Altri animali da cortile come galline e oche completano la vita della borgata.
+
 ### Cani e Gatti da Compagnia
 
 Cani e gatti da compagnia completano il parco animali della borgata, rendendo l'atmosfera ancora più accogliente e familiare per gli ospiti.
@@ -31,6 +36,8 @@ Cani e gatti da compagnia completano il parco animali della borgata, rendendo l'
 ### La Filosofia del Nostro Allevamento
 
 Tutti gli animali di Mausset sono allevati seguendo criteri naturali e sostenibili. Non imponiamo ritmi artificiali, ma rispettiamo i cicli biologici naturali. Gli animali hanno ampi spazi dove pascolare e muoversi liberamente, vivendo una vita il più possibile naturale.
+
+<img src="/assets/images/mausset-chickens.jpg" class="img-block">
 
 ---
 

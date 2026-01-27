@@ -10,11 +10,13 @@ icon: tree
 
 ### L'Antico Forno
 
-<img src="/assets/images/mausset-forno.jpg">Antico forno a legna perfettamente funzionante, è possibile utilizzarlo su richiesta per cuocere prodotti da forno o pane fino a 50kg. Cortile coperto con possibilità di vari utilizzi. È presente un piccolo bagno con doccia.
+<img src="/assets/images/mausset-forno.jpg" class="img-block">Antico forno a legna perfettamente funzionante, è possibile utilizzarlo su richiesta per cuocere prodotti da forno o pane fino a 50kg. Cortile coperto con possibilità di vari utilizzi. È presente un piccolo bagno con doccia.
 
 ### Orto
 
-<img src="/assets/images/mausset-orto.jpg">Gli ospiti durante la stagione produttiva e a seconda delle disponibilità potranno acquistare i prodotti dell'orto coltivati secondo i metodi tradizionali.
+<img src="/assets/images/mausset-orto.jpg" class="img-block">Gli ospiti durante la stagione produttiva e a seconda delle disponibilità potranno acquistare i prodotti dell'orto coltivati secondo i metodi tradizionali.
+
+<img src="/assets/images/mausset-flowers.jpg" class="img-block">
 
 ### I Cortili
 

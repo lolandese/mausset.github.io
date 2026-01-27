@@ -5,7 +5,7 @@ group: navigation
 lang: de
 icon: heart
 ---
-
+<img src="/assets/images/mausset-capre.jpg" class="img-block">
 ## Agriturismo mit Tieren: Ziegen, Schafe, Enten, Gänse und Hühner
 
 ### Die Ziegen
@@ -15,6 +15,7 @@ Unsere Ziegen haben alle einen Namen, eine starke Persönlichkeit und produziere
 Sie produzieren Milch von Februar bis Oktober, die Monate, in denen wir Käse herstellen. Wir folgen dem natürlichen Verlauf der Jahreszeiten und beobachten die natürliche Ruhezeit (Trockenzeit), denn wir möchten sie nicht künstlich konditionieren.
 
 Die Ziegen sind das Herz des Hofes und sind Teil der Geschichte und Identität von Mausset. Viele Gäste kommen gerne zurück, um die Ziegen zu begrüßen, die ihnen inzwischen vertraut geworden sind!
+<img src="/assets/images/mausset-goats.jpg" class="img-block">
 
 ### Frabosane Schafe
 
@@ -23,14 +24,16 @@ Wir züchten etwa zehn Frabosane-Schafe für die Produktion von Zucht- und Fleis
 ### Enten, Gänse und Hühner
 
 Enten, Gänse und Hühner begleiten uns, versorgen uns mit Eiern und Fleisch und verbrauchen gerne die Abfälle aus unserem Garten, was zum nachhaltigen Kreislauf des Hofes beiträgt.
+<img src="/assets/images/mausset-paperi.jpg" class="img-block">
 
-### Begleithunde und Katzen
+Andere Hofvögel wie Hühner und Gänse vervollständigen das Leben des Dorfes.
 
 Begleithunde und Katzen vervollständigen den Tierpark des Dorfes und machen die Atmosphäre noch gastfreundlicher und familiärer für die Gäste.
 
 ### Die Philosophie unserer Tierhaltung
 
 Alle Tiere im Mausset werden nach natürlichen und nachhaltigen Kriterien gezüchtet. Wir erzwingen keine künstlichen Rhythmen, sondern respektieren die natürlichen biologischen Zyklen. Die Tiere haben viel Platz zum Weiden und sich frei zu bewegen und leben ein möglichst natürliches Leben.
+<img src="/assets/images/mausset-chickens.jpg" class="img-block">
 
 ---
 

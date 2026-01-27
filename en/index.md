@@ -5,7 +5,8 @@ tagline: Agriturismo in Val Pellice
 lang: en
 ---
 {% include JB/setup %}
-
+<img src="https://live.staticflickr.com/65535/51249499291_577d1ec4a3_c_d.jpg">
+<br /><br />
 # Welcome to Borgata Maussa
 
 ## Ecological Agriturismo in Val Pellice

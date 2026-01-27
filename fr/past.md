@@ -17,6 +17,7 @@ Vers les années 1960, le hameau a été définitivement abandonné, restant inh
 Au début des années 1980, il a rencontré Roberta avec qui il a formé sa famille. Trois enfants sont nés et ensemble ils se sont consacrés à l'élevage d'abeilles, d'animaux de basse-cour et de chèvres, ainsi qu'à la culture de jardins et de petits vergers selon des méthodes traditionnelles sans utilisation de produits chimiques.
 
 En vendant leurs produits, ils ont pu, peu à peu, acheter l'ensemble du hameau avec le désir de raviver ce lieu. Ils ont appris à faire du pain, restaurant le vieux four, à conserver des fruits sauvages et des légumes de leur propre production, à fabriquer du fromage avec le lait de leurs propres chèvres.
+<img src="/assets/images/mausset-shoes.jpg" class="img-block">
 
 ### Le Présent
 

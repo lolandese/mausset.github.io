@@ -11,10 +11,13 @@ icon: tree
 ### Le Four Ancien
 
 Four à bois ancien en parfait état de fonctionnement, il peut être utilisé sur demande pour cuire des produits de boulangerie ou du pain jusqu'à 50kg. Cour couverte offrant diverses possibilités d'utilisation. Il y a une petite salle de bain avec douche.
+<img src="/assets/images/mausset-forno.jpg" class="img-block">
 
 ### Jardin Potager
 
 Pendant la saison productive et selon la disponibilité, les clients peuvent acheter les produits du jardin cultivés selon les méthodes traditionnelles.
+<img src="/assets/images/mausset-orto.jpg" class="img-block">
+<img src="/assets/images/mausset-flowers.jpg" class="img-block">
 
 ### Les Cours
 

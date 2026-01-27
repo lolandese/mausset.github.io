@@ -5,7 +5,7 @@ group: navigation
 lang: it
 icon: gift
 ---
-<img src="/assets/images/mausset-formaggi.jpg">
+<img src="/assets/images/mausset-formaggi.jpg" class="img-block">
 ## Produzione Propria di Formaggi di Capra e Yogurt
 
 Mausset è un'azienda agricola che produce formaggi di capra a latte crudo con capre al pascolo nei boschi della Val Pellice. Le nostre capre pascolano tutto l'anno, ma producono latte da febbraio a novembre.

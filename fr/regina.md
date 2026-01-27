@@ -4,7 +4,7 @@ title: La reine des chèvres
 lang: fr
 icon: star
 ---
-<img src="../assets/images/tomassi.jpg">
+<img src="../assets/images/tomassi.jpg" class="img-block">
 
 Le petit monde de Roberta Di Tomassi sous les Alpes, juste au-delà de Villar Pellice. Elle vit par choix dans un hameau de Borgata Maussa qu'elle a elle-même ressuscité. Elle élève des animaux, fait du fromage, a élevé seule 4 enfants et parie maintenant sur l'agriturismo.
 
