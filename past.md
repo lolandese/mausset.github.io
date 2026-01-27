@@ -1,37 +1,30 @@
 ---
 layout: page
-title: Past experiences
-tagline: Supporting tagline
-icon: clock-o
+title: La Nostra Storia
+tagline: La storia di Mausset
+icon: history
+group: navigation
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/30463082@N08/3080190729" title="View photo on Flickr" target="_blank"><img src="https://live.staticflickr.com/3192/3080190729_b9a00fbaa2_b.jpg" style="width: 800px;"></a><br />
-<h5><a href="https://www.flickr.com/people/30463082@N08/" title="View user on Flickr" target="_blank">Credit</a></h5> 
+## Orto, Frutteto, Pane Fatto in Casa, Conserve e Squisiti Formaggi
 
-**[Lead Drupal Developer in permanent position](/work.html#permanent)**
-2015 - present (since 4 years)
+### Dalla Borgata Abbandonata al Rifugio Accogliente
 
-**[Agency work as freelancer](/work.html#agency)**
-2013 - 2018 (5 years)
+Verso gli anni 60 la frazione viene definitivamente abbandonata restando disabitata per una quindicina d'anni quando poi Gianfranco decise di allevare api in montagna, dove abitavano i suoi nonni.
 
-**[Independent one man webshop](/work.html#webshop)**
-2010 - 2018 (8 years)
+All'inizio degli anni 80 conobbe Roberta con la quale, in seguito, formò la sua famiglia. Nacquero tre bambini ed assieme si dedicarono all'allevamento di api, animali da cortile e capre, oltre a coltivare orti e piccoli frutteti con metodi tradizionali senza l'uso di prodotti chimici.
 
-**PADI Instructor at the Savoy, Red Sea**
-MSDT, TecRec, SC and CC rebreather trained
-2005 – 2010 (5 years)
+Vendendo i loro prodotti poterono, poco alla volta, acquistare l'intera frazione con il desiderio di far rinascere questo posto. Impararono a fare il pane, ripristinando il vecchio forno, a conservare frutti selvatici e ortaggi di loro produzione, a fare formaggi con il latte delle proprie capre.
 
-**Owner of l’Olandese Volante di ing Postma & Marzielli snc**
-1999 – 2004 (5 years)
+### Il Presente
 
-**Partner of Sinatti sas, Arezzo, Italy**
-1994 – 1999 (5 years)
+Ora Gianfranco non c'è più, prematuramente scomparso. Ci siamo noi: Roberta, Ben, Nadine con Diana ed Elena e ogni tanto Sole.
 
-**Interim manager at Connector Techniek Rotterdam BV**
-1993 – 1994 (1 year)
+La battaglia per preservare la borgata continua, con l'impegno di mantenere vivi i valori che Gianfranco e Roberta hanno costruito nel corso degli anni: il rispetto per la natura, la sostenibilità, l'accoglienza autentica e la trasmissione delle conoscenze acquisite nel contatto diretto con la montagna e i suoi cicli naturali.
 
-**Quality Manager at ABB Service BV, Rotterdam**
-1990 – 1993 (3 years)
+Mausset è oggi un luogo dove il passato incontra il presente, dove la tradizione rurale convive con una visione ecologica e consapevole del futuro.
 
-<a href="/edu.html#top" title="Education"><b><< PREV</b></a> &#124; <a href="/#top" title="Home"><b>NEXT >></b></a>
+---
+
+<a href="/animali.html#top" title="Animali"><b><< INDIETRO</b></a> &#124; <a href="/prezzi.html#top" title="Prezzi"><b>AVANTI >></b></a>

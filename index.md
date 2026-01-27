@@ -1,14 +1,30 @@
 ---
 layout: front
-title: Home
-tagline: Supporting tagline
+title: Agriturismo Mausset
+tagline: Agriturismo in Val Pellice
 ---
 {% include JB/setup %}
 
-<a href="https://www.flickr.com/photos/calidiving/16596864386/" title="View photo on Flickr" target="_blank"><img src="https://live.staticflickr.com/8576/16596864386_955708dcf2_b_d.jpg" style="width: 1024px;"></a><br />
-<h5><a href="https://www.flickr.com/photos/calidiving/" title="View user on Flickr" target="_blank">Credit</a></h5>
+# Benvenuti alla borgata Maussa
 
-The **Cali International Diving Center** in Sharm el Sheikh was founded in 1994 and has twenty years of experience of its instructors operating
-since then dedicating themselves to the safety and enjoyment and characterized by the loyalty of the divers and snorkelers who
-return year after year to enjoy the beauty of the Red Sea and offering customized tours. Cali d.c. and it registered with
-CDWS, Room Diving and Water Sports under the auspices of the Egyptian Ministry of Tourism with the number SSDC 013s.
+## Agriturismo Ecologico in Val Pellice
+
+Arrivare come ospiti – partire come amici.
+
+Volete trascorrere i vostri giorni più belli dell'anno in un agriturismo accogliente adatto per singoli, famiglie e gruppi di ogni età? Sarete a vostro agio qui da noi!
+
+Il nostro agriturismo completamente ristrutturato si trova in una tranquilla vallata della Val Pellice al bordo del bosco. Il Mausset promuove un turismo semplice ed ecologico, dove la parola chiave è **autogestione**: non ci sono cuochi, né camerieri, o personale di pulizia. Durante il vostro soggiorno potrete usufruire delle cucine e preparare i vostri pasti utilizzando anche i nostri prodotti aziendali.
+
+Mentre i grandi possono rilassarsi nel giardino o ammirare il panorama stupendo, per i piccoli offriamo tanto posto per giocare tranquilli. Nadine, Diana, Elena, Roberta e le capre sono contenti di potervi ospitare!
+
+## Contatti
+
+**Agriturismo Il Mausset**
+Borgata Maussa 10060 – Villar Pellice (To) – Italia
+E-mail: agriturismoilmausset@gmail.com
+Cell: (+39) 345.2622959
+
+Lingue parlate: Italiano, Francese, Deutsch, English
+---
+
+<a href="/#top" title="Home"><b><< INDIETRO</b></a> &#124; <a href="/about.html#top" title="Filosofia"><b>AVANTI >></b></a>
