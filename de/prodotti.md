@@ -17,7 +17,6 @@ Derzeit hat der Hof etwa zwanzig Milchziegen, mit denen wir produzieren:
 
 - **"Ciabra 'd Moussa" (Ziege von Maussa)** - Rohmilch-Käse aus frischem und gereiftem Labkäse
 - **"Luna caprese"** - Rohmilch-Käse aus Labkäse, der es uns auch ermöglicht, Ricotta herzustellen
-<img src="/assets/images/mausset-goats.jpg" class="img-block">
 
 Unsere Käsesorten sind erhältlich:
 - Natur

@@ -17,7 +17,6 @@ Currently the farm has about twenty dairy goats with which we produce:
 
 - **"Ciabra 'd Moussa" (Goat of Maussa)** - Raw milk cheeses made with fresh and aged lactic curd
 - **"Luna caprese"** - Raw milk cheese made with rennet curd that also allows us to make ricotta
-<img src="/assets/images/mausset-goats.jpg" class="img-block">
 
 Our cheeses are available:
 - Natural

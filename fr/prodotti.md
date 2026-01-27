@@ -16,7 +16,8 @@ Mausset est une exploitation agricole qui produit du fromage de chèvre au lait 
 Actuellement, l'exploitation compte environ vingt chèvres laitières avec lesquelles nous produisons:
 
 - **"Ciabra 'd Moussa" (Chèvre de Maussa)** - Fromages au lait cru issus de caillé frais et affinés
-- **"Luna caprese"** - Fromage au lait cru issu de caillé présure qui nous permet aussi de faire de la ricotta<img src="/assets/images/mausset-goats.jpg" class="img-block">
+- **"Luna caprese"** - Fromage au lait cru issu de caillé présure qui nous permet aussi de faire de la ricotta
+
 Nos fromages sont disponibles:
 - Nature
 - Aromatisés avec des herbes, des baies ou des graines
