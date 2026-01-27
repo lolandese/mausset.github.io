@@ -35,7 +35,7 @@ I nostri formaggi sono disponibili:
 | Ricoperto al carbone vegetale | Con carbone alimentare |
 | Baci di capra | Piccoli formaggi affumicati |
 | Tronchetto alle noci | Con noci tritate |
-| Tronchetto alla sesamina | Con semi di sesamo |
+| Tronchetto al sesamo | Con semi di sesamo |
 
 ### Yogurt
 

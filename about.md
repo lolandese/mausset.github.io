@@ -21,7 +21,7 @@ Per cucinare, oltre a moderne cucine a gas ed elettriche sono anche presenti cuc
 
 Il rispetto per la natura e l'utilizzo consapevole delle risorse della montagna è alla base della nostra filosofia ed è quanto chiediamo ai nostri ospiti.
 
-Agli ospiti che lo desiderano sarà data la possibilità di partecipare alla attività dell'azienda:
+Agli ospiti che lo desiderano sarà data la possibilità di partecipare alle attività dell'azienda:
 - Allevamento e conduzione degli animali
 - Osservazione delle fasi di trasformazione del latte
 - Conduzione dell'orto e conservazione dei prodotti agricoli raccolti
@@ -45,5 +45,3 @@ A tutti diamo la nostra disponibilità di trasmettere le conoscenze acquisite ne
 ---
 
 <a href="/#top" title="Home"><b><< INDIETRO</b></a> &#124; <a href="/stanze.html#top" title="Stanze"><b>AVANTI >></b></a>
-
-<a href="/#top" title="Home"><b><< PREV</b></a> &#124; <a href="/#top" title="Home"><b>NEXT >></b></a>

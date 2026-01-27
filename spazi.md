@@ -8,7 +8,7 @@ group: navigation
 
 ### L'Antico Forno
 
-Antico forno a legna perfettamente funzionante, è possibile utilizzarlo su richiesta per cuocere prodotti da forno o pane fino a 50kg. Cortile coperto con possibilità vario utilizzo. È presente un piccolo bagno con doccia.
+Antico forno a legna perfettamente funzionante, è possibile utilizzarlo su richiesta per cuocere prodotti da forno o pane fino a 50kg. Cortile coperto con possibilità di vari utilizzi. È presente un piccolo bagno con doccia.
 
 ### Orto
 
@@ -24,7 +24,7 @@ A disposizione di ospiti e clienti un ampio parcheggio con facile accesso all'ag
 
 ### Giardino e Aree Esterne
 
-La proprietà offre ampie aree esterne dove potere rilassarsi, ammirare il panorama stupendo della Val Pellice e godere del contatto con la natura.
+La proprietà offre ampie aree esterne dove potersi rilassare, ammirare il panorama stupendo della Val Pellice e godere del contatto con la natura.
 
 ---
 
