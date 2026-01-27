@@ -11,7 +11,7 @@
       <footer class="unit-foot">
         <div class="unit-inner unit-foot-inner">
           <p class="gotop">
-            <a href="#page">Back to Top</a>
+            <a href="#page"><b>{% if page.lang == 'en' %}BACK TO TOP{% elsif page.lang == 'de' %}NACH OBEN{% elsif page.lang == 'fr' %}RETOUR EN HAUT{% else %}TORNA SU{% endif %}</b></a>
           </p>
         </div>
       </footer>
