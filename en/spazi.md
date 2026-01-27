@@ -3,6 +3,7 @@ layout: page
 title: Spaces
 group: navigation
 lang: en
+icon: tree
 ---
 
 ## Agriturismo with Parking, Courtyard, Children's Play Area, Vegetable Garden and Wood-fired Oven

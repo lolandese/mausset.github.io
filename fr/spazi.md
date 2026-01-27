@@ -3,6 +3,7 @@ layout: page
 title: Espaces
 group: navigation
 lang: fr
+icon: tree
 ---
 
 ## Agriturismo avec Parking, Cour, Espace de Jeu pour Enfants, Jardin Potager et Four à Bois

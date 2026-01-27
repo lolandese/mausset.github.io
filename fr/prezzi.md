@@ -3,6 +3,7 @@ layout: page
 title: Tarifs
 group: navigation
 lang: fr
+icon: euro
 ---
 
 ## Tarifs Agriturismo Mausset

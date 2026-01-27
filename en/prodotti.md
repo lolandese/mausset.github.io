@@ -3,6 +3,7 @@ layout: page
 title: Our Products
 group: navigation
 lang: en
+icon: gift
 ---
 
 ## Own Production of Goat Cheese and Yogurt

@@ -3,6 +3,7 @@ layout: page
 title: Tiere
 group: navigation
 lang: de
+icon: heart
 ---
 
 ## Agriturismo mit Tieren: Ziegen, Schafe, Enten, Gänse und Hühner

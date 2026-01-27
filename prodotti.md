@@ -3,6 +3,7 @@ layout: page
 title: I Nostri Prodotti
 group: navigation
 lang: it
+icon: gift
 ---
 
 ## Produzione Propria di Formaggi di Capra e Yogurt

@@ -3,6 +3,7 @@ layout: page
 title: Räume
 group: navigation
 lang: de
+icon: tree
 ---
 
 ## Agriturismo mit Parkplatz, Innenhof, Spielbereich für Kinder, Gemüsegarten und Holzofen

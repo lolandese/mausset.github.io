@@ -3,6 +3,7 @@ layout: page
 title: Animaux
 group: navigation
 lang: fr
+icon: heart
 ---
 
 ## Agriturismo avec Animaux: Chèvres, Moutons, Canards, Oies et Poules

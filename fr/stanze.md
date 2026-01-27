@@ -3,6 +3,7 @@ layout: page
 title: Chambres
 group: navigation
 lang: fr
+icon: bed
 ---
 
 ## Chambres d'Hôtes en Agriturismo en Val Pellice

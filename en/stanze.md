@@ -3,6 +3,7 @@ layout: page
 title: Rooms
 group: navigation
 lang: en
+icon: bed
 ---
 
 ## Guest Rooms in Agriturismo in Val Pellice

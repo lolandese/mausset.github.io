@@ -3,6 +3,7 @@ layout: page
 title: Nos Produits
 group: navigation
 lang: fr
+icon: gift
 ---
 
 ## Production Propre de Fromage de Chèvre et Yaourt

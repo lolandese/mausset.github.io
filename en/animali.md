@@ -3,6 +3,7 @@ layout: page
 title: Animals
 group: navigation
 lang: en
+icon: heart
 ---
 
 ## Agriturismo with Animals: Goats, Sheep, Ducks, Geese and Chickens

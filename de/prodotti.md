@@ -3,6 +3,7 @@ layout: page
 title: Unsere Produkte
 group: navigation
 lang: de
+icon: gift
 ---
 
 ## Eigenproduktion von Ziegenkäse und Joghurt

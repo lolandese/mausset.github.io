@@ -3,6 +3,7 @@ layout: page
 title: Zimmer
 group: navigation
 lang: de
+icon: bed
 ---
 
 ## Gästezimmer im Agriturismo im Val Pellice
