@@ -33,14 +33,14 @@ La strada è in discesa, sempre sulla sinistra a 100 metri siete arrivati.
 
 ### Contatti
 
-Ci fa piacere se avvisate telefonicamente il vostro arrivo al numero **345 2622959** (Nadine vi risponderà volentieri).
+Ci fa piacere se avvisate telefonicamente il vostro arrivo al numero **(+39) 345 2622959** (Nadine vi risponderà volentieri).
 
 **Agriturismo Il Mausset**
 Borgata Maussa 10060 – Villar Pellice (To) – Italia
 Email: agriturismoilmausset@gmail.com
 Cell: (+39) 345.2622959
 
-Lingue parlate: Italiano, Francese, Deutsch, English
+Lingue parlate: Italiano, Francese
 
 ### Orari
 

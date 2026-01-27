@@ -26,6 +26,8 @@ La battaglia per preservare la borgata continua, con l'impegno di mantenere vivi
 
 Mausset è oggi un luogo dove il passato incontra il presente, dove la tradizione rurale convive con una visione ecologica e consapevole del futuro.
 
+[La regina delle capre - Gente di Piemonte - Blog - Repubblica.it](/regina.html)
+
 ---
 
 <a href="/animali.html#top" title="Animali"><b><< INDIETRO</b></a> &#124; <a href="/prezzi.html#top" title="Prezzi"><b>AVANTI >></b></a>

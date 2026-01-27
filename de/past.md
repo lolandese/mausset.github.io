@@ -26,6 +26,8 @@ Der Kampf um die Bewahrung des Dorfes geht weiter, mit dem Engagement, die Werte
 
 Mausset ist heute ein Ort, an dem die Vergangenheit auf die Gegenwart trifft, wo ländliche Traditionen mit einer ökologischen und bewussten Vision der Zukunft koexistieren.
 
+[Die Königin der Ziegen - Gente di Piemonte - Blog - Repubblica.it](/de/regina.html)
+
 ---
 
 <a href="/de/animali.html#top" title="Tiere"><b><< ZURÜCK</b></a> &#124; <a href="/de/prezzi.html#top" title="Preise"><b>WEITER >></b></a>

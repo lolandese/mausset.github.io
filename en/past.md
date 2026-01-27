@@ -26,6 +26,8 @@ The battle to preserve the village continues, with the commitment to keep alive 
 
 Mausset is today a place where the past meets the present, where rural tradition coexists with an ecological and conscious vision of the future.
 
+[The Queen of Goats - Gente di Piemonte - Blog - Repubblica.it](/en/regina.html)
+
 ---
 
 <a href="/en/animali.html#top" title="Animals"><b><< BACK</b></a> &#124; <a href="/en/prezzi.html#top" title="Prices"><b>NEXT >></b></a>

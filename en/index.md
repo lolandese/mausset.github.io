@@ -25,4 +25,4 @@ Borgata Maussa 10060 – Villar Pellice (To) – Italy
 E-mail: agriturismoilmausset@gmail.com
 Cell: (+39) 345.2622959
 
-Languages spoken: Italiano, Français, Deutsch, English
+Languages spoken: Italiano, Français

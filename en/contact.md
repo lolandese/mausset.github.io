@@ -34,14 +34,14 @@ The road is downhill, always on the left, and after 100 meters you've arrived.
 ### Contact
 
 
-We'd appreciate it if you let us know your arrival by phone at **345 2622959** (Nadine will be happy to help you).
+We'd appreciate it if you let us know your arrival by phone at **(+39) 345 2622959** (Nadine will be happy to help you).
 
 **Agriturismo Il Mausset**
 Borgata Maussa 10060 – Villar Pellice (To) – Italy
 Email: agriturismoilmausset@gmail.com
 Cell: (+39) 345.2622959
 
-Languages spoken: Italiano, Français, Deutsch, English
+Languages spoken: Italiano, Français
 
 ### Hours
 

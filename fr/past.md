@@ -26,6 +26,8 @@ La bataille pour préserver le hameau continue, avec l'engagement de garder viva
 
 Mausset est aujourd'hui un lieu où le passé rencontre le présent, où la tradition rurale coexiste avec une vision écologique et consciente de l'avenir.
 
+[La reine des chèvres - Gente di Piemonte - Blog - Repubblica.it](/fr/regina.html)
+
 ---
 
 <a href="/fr/animali.html#top" title="Animaux"><b><< RETOUR</b></a> &#124; <a href="/fr/prezzi.html#top" title="Tarifs"><b>SUIVANT >></b></a>
