@@ -20,9 +20,9 @@ Pendant que les adultes peuvent se détendre dans le jardin ou admirer le panora
 
 ## Contact
 
-**Agriturismo Il Mausset**  
-Borgata Maussa 10060 – Villar Pellice (To) – Italie  
-E-mail: agriturismoilmausset@gmail.com  
-Téléphone: (+39) 345.2622959  
+**Agriturismo Il Mausset**
+Borgata Maussa 10060 – Villar Pellice (To) – Italie
+E-mail: agriturismoilmausset@gmail.com
+Téléphone: (+39) 345.2622959
 
 Langues parlées: Italiano, Français, Deutsch, English

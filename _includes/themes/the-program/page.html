@@ -18,7 +18,9 @@
 			<footer class="unit-foot">
 				<div class="unit-inner unit-foot-inner">
 					<p class="gotop">
-						<a href="/" title="Back to the Home page"><b>HOME</b></a> | <a href="#" title="To the top of this page"><b>TORNA SU</b></a>
+						{% assign lang_prefix = '' %}
+						{% if page.lang == 'en' %}{% assign lang_prefix = '/en' %}{% elsif page.lang == 'de' %}{% assign lang_prefix = '/de' %}{% elsif page.lang == 'fr' %}{% assign lang_prefix = '/fr' %}{% endif %}
+						<a href="{{ lang_prefix }}/" title="{% if page.lang == 'en' %}Back to the Home page{% elsif page.lang == 'de' %}Zur Startseite{% elsif page.lang == 'fr' %}Retour à la page d'accueil{% else %}Torna alla home{% endif %}"><b>{% if page.lang == 'en' %}HOME{% elsif page.lang == 'de' %}STARTSEITE{% elsif page.lang == 'fr' %}ACCUEIL{% else %}HOME{% endif %}</b></a> | <a href="#" title="{% if page.lang == 'en' %}To the top of this page{% elsif page.lang == 'de' %}Zum Seitenanfang{% elsif page.lang == 'fr' %}En haut de la page{% else %}Torna su{% endif %}"><b>{% if page.lang == 'en' %}BACK TO TOP{% elsif page.lang == 'de' %}NACH OBEN{% elsif page.lang == 'fr' %}RETOUR EN HAUT{% else %}TORNA SU{% endif %}</b></a>
 					</p>
 				</div>
 			</footer>

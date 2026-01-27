@@ -45,4 +45,4 @@ Nous sommes heureux de partager les connaissances que nous avons acquises au fil
 
 ---
 
-<a href="/" title="Accueil"><b><< RETOUR</b></a> &#124; <a href="/fr/stanze.html#top" title="Chambres"><b>SUIVANT >></b></a>
+<a href="/fr/#top" title="Accueil"><b><< RETOUR</b></a> &#124; <a href="/fr/stanze.html#top" title="Chambres"><b>SUIVANT >></b></a>

@@ -45,4 +45,4 @@ We are available to share the knowledge we have acquired over many years of livi
 
 ---
 
-<a href="/#top" title="Home"><b><< BACK</b></a> &#124; <a href="/en/stanze.html#top" title="Rooms"><b>NEXT >></b></a>
+<a href="/en/#top" title="Home"><b><< BACK</b></a> &#124; <a href="/en/stanze.html#top" title="Rooms"><b>NEXT >></b></a>

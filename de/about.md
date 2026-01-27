@@ -45,4 +45,4 @@ Wir sind gerne bereit, das Wissen zu teilen, das wir über viele Jahre im Kontak
 
 ---
 
-<a href="/" title="Startseite"><b><< ZURÜCK</b></a> &#124; <a href="/de/stanze.html#top" title="Zimmer"><b>WEITER >></b></a>
+<a href="/de/#top" title="Startseite"><b><< ZURÜCK</b></a> &#124; <a href="/de/stanze.html#top" title="Zimmer"><b>WEITER >></b></a>
