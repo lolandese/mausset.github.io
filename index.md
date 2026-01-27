@@ -5,9 +5,9 @@ tagline: Agriturismo in Val Pellice
 lang: it
 ---
 {% include JB/setup %}
-
+<img src="https://live.staticflickr.com/65535/51249499291_577d1ec4a3_c_d.jpg">
+<br /><br />
 # Benvenuti alla borgata Maussa
-
 ## Agriturismo Ecologico in Val Pellice
 
 Arrivare come ospiti – partire come amici.

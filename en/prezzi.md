@@ -36,4 +36,4 @@ We recommend contacting us directly to discuss your needs and receive personaliz
 
 ---
 
-<a href="/en/past.html#top" title="History"><b><< BACK</b></a>
+<a href="/en/past.html#top" title="History"><b><< BACK</b></a> &#124; <a href="/en/contact.html#top" title="How to Find Us"><b>NEXT >></b></a>

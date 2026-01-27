@@ -36,4 +36,4 @@ Nous vous recommandons de nous contacter directement pour discuter de vos besoin
 
 ---
 
-<a href="/fr/past.html#top" title="Histoire"><b><< RETOUR</b></a>
+<a href="/fr/past.html#top" title="Histoire"><b><< RETOUR</b></a> &#124; <a href="/fr/contact.html#top" title="Comment nous trouver"><b>SUIVANT >></b></a>

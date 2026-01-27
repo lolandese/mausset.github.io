@@ -36,4 +36,4 @@ Wir empfehlen Ihnen, sich direkt an uns zu wenden, um Ihre Anforderungen zu besp
 
 ---
 
-<a href="/de/past.html#top" title="Geschichte"><b><< ZURÜCK</b></a>
+<a href="/de/past.html#top" title="Geschichte"><b><< ZURÜCK</b></a> &#124; <a href="/de/contact.html#top" title="Wie Sie uns finden"><b>WEITER >></b></a>

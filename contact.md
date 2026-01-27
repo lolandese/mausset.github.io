@@ -4,6 +4,7 @@ title: Come Trovarci
 tagline: Contatti e Indicazioni Stradali
 icon: map-marker
 group: navigation
+lang: it
 ---
 {% include JB/setup %}
 
@@ -12,6 +13,8 @@ group: navigation
 ### Indicazioni Stradali
 
 **Autostrada Torino-Pinerolo** - Arrivati a Pinerolo prendere per la Val Pellice.
+
+<i class="fa fa-map-marker fa-fw fa-lg"></i> <a href="https://maps.app.goo.gl/X4zTw6P9rvjU8rYz9" target="_blank">Dove siamo, su Google maps</a>
 
 Superare i comuni di:
 - San Secondo di Pinerolo
@@ -46,11 +49,5 @@ Vi preghiamo di contattarci in anticipo per prenotare il vostro soggiorno, sopra
 ---
 
 <a href="/prezzi.html#top" title="Prezzi"><b><< INDIETRO</b></a>
-<br />
-<h2>Call us</h2>
-<a href="tel:+201222384712"><i class="fa fa-phone fa-fw fa-lg"></i>&nbsp;+20 122 238 4712</a><br />
-<a href="tel:+201223113038"><i class="fa fa-phone fa-fw fa-lg"></i>&nbsp;+20 122 311 3038</a><br />
-<br />
-<br />
 
 

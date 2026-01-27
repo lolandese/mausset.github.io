@@ -36,4 +36,4 @@ Vi consigliamo di contattarci direttamente per discutere delle vostre esigenze e
 
 ---
 
-<a href="/past.html#top" title="Storia"><b><< INDIETRO</b></a>
+<a href="/past.html#top" title="Storia"><b><< INDIETRO</b></a> &#124; <a href="/contact.html#top" title="Come Trovarci"><b>AVANTI >></b></a>

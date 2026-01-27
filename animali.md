@@ -5,7 +5,7 @@ group: navigation
 lang: it
 icon: heart
 ---
-
+<img src="/assets/images/mausset-paperi.jpg">
 ## Agriturismo con Animali: Capre, Pecore, Anatre, Oche e Galline
 
 ### Le Capre
