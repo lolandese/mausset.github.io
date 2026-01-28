@@ -28,4 +28,6 @@ Cell: (+39) 345.2622959
 Lingue parlate: Italiano, Francese
 ---
 
+<iframe width="560" height="420" src="https://www.youtube.com/embed/ys-nMDcf-7A" title="Agriturismo Mausset in Villar Pellice, Torino" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <a href="/#top" title="Home"><b><< INDIETRO</b></a> &#124; <a href="/about.html#top" title="Filosofia"><b>AVANTI >></b></a>
