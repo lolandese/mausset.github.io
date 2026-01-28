@@ -29,6 +29,8 @@ Continuez pendant environ 3 km, en gardant toujours la gauche sur l'asphalte et 
 
 Après avoir traversé un gué, vous arrivez à **Borgata Palet**, d'où part une route en terre battue, signalée par une pancarte en bois **"Fromage de Chèvre"**.
 
+<img src="/assets/images/Cartello-Mausset-494x304.jpg" class="img-block">
+
 La route est en pente, toujours à gauche, et après 100 mètres vous êtes arrivé.
 
 ### Contact

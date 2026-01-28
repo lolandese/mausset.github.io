@@ -29,6 +29,8 @@ Fahren Sie etwa 3 km weit, halten Sie sich immer links auf dem Asphalt und folge
 
 Nach einer Furt erreichen Sie **Borgata Palet**, von wo aus eine unbefestigte Straße abzweigt, die mit einem Holzschild **"Ziegenkäse"** gekennzeichnet ist.
 
+<img src="/assets/images/Cartello-Mausset-494x304.jpg" class="img-block">
+
 Die Straße führt bergab, immer nach links, und nach 100 Metern sind Sie angekommen.
 
 ### Kontakt

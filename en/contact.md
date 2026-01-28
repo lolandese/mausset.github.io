@@ -29,6 +29,8 @@ Continue for about 3 km, always keeping to the left on the asphalt and following
 
 After crossing a ford, you arrive at **Borgata Palet**, from where a dirt road branches off, marked with a wooden sign **"Goat Cheeses"**.
 
+<img src="/assets/images/Cartello-Mausset-494x304.jpg" class="img-block">
+
 The road is downhill, always on the left, and after 100 meters you've arrived.
 
 ### Contact

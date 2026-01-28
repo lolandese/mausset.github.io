@@ -29,6 +29,8 @@ Si prosegue per circa 3 km tenendo sempre la sinistra sull'asfalto e seguendo l'
 
 Oltrepassato un guado si arriva alla **Borgata Palet** da dove si diparte una strada carrabile non asfaltata segnalata con un cartello di legno **"Formaggi di Capra"**.
 
+<img src="/assets/images/Cartello-Mausset-494x304.jpg" class="img-block">
+
 La strada è in discesa, sempre sulla sinistra a 100 metri siete arrivati.
 
 ### Contatti
