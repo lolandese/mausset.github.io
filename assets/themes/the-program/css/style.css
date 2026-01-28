@@ -1149,8 +1149,8 @@ span.signs {
     position: fixed;
   }
   .the-header .unit-head {
-    width: 210px;
-    padding: 30px;
+    width: 230px;
+    padding: 10px;
   }
   .the-header .unit-head .nav-global li {
     float: none;
