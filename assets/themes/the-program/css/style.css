@@ -1060,8 +1060,9 @@ span.signs {
   .the-header .unit-head .nav-global li a,
   .the-header .unit-head .nav-global li div {
     display: block;
-    padding: 20px;
+    padding: 14px 16px;
     height: 26px;
+    font-size: 14px;
   }
   .the-header .unit-head .nav-global li a:hover {
     background-color: #fff04a;
@@ -1080,8 +1081,8 @@ span.signs {
     width: 100%;
   }
   .the-header .unit-head .nav-global .logo a {
-    font-size: 30px;
-    line-height: normal;
+    font-size: 26px;
+    line-height: 1.2;
   }
   .the-header .unit-head .nav-global .logo a:hover {
     background-color: transparent;
@@ -1104,7 +1105,7 @@ span.signs {
     width: 100%;
   }
   .the-header .unit-head .nav-global .logo a {
-    line-height: 18px;
+    line-height: 1.1;
     margin-bottom: 0;
     padding-left: 60px;
   }
