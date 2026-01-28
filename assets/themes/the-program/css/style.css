@@ -1081,8 +1081,8 @@ span.signs {
     width: 100%;
   }
   .the-header .unit-head .nav-global .logo a {
-    font-size: 28px;
-    line-height: 1.2;
+    font-size: 30px;
+    line-height: normal;
   }
   .the-header .unit-head .nav-global .logo a:hover {
     background-color: transparent;
