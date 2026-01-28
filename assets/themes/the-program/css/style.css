@@ -1060,9 +1060,8 @@ span.signs {
   .the-header .unit-head .nav-global li a,
   .the-header .unit-head .nav-global li div {
     display: block;
-    padding: 14px 16px;
+    padding: 26px;
     height: 26px;
-    font-size: 14px;
   }
   .the-header .unit-head .nav-global li a:hover {
     background-color: #fff04a;
