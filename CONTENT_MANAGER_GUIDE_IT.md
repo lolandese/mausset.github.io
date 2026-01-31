@@ -6,7 +6,7 @@ Benvenuto! Questa guida ti aiuterà a gestire i contenuti del sito web Agrituris
 
 **URL del CMS:** https://mausset.valpellice.site/admin/
 
-Il CMS fornisce un'interfaccia user-friendly per modificare i contenuti del sito web multilingue senza necessità di conoscenze tecniche.
+Il CMS fornisce un'interfaccia intuitiva per modificare i contenuti del sito web multilingue senza necessità di conoscenze tecniche.
 
 ---
 
