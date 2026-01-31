@@ -11,3 +11,17 @@ Thumbs.db
 vendor/
 .bundle/
 Gemfile.lock
+
+# Jekyll build files
+.jekyll-cache/
+.jekyll-metadata
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log

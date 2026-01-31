@@ -1,0 +1,19 @@
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.2.0"
+  JEKYLL_ENV = "production"
+
+[[redirects]]
+  from = "https://mausset.github.io/*"
+  to = "https://mausset.valpellice.site/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://mausset.valpellice.site/*"
+  to = "https://mausset.valpellice.site/:splat"
+  status = 301
+  force = true

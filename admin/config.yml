@@ -1,0 +1,492 @@
+backend:
+  name: github
+  repo: lolandese/mausset.github.io
+  branch: main
+  base_url: https://mausset.valpellice.site
+
+# Disable Editorial Workflow (drafts)
+publish_mode: simple
+
+# Media files configuration
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+# Site URL for live preview
+site_url: https://mausset.valpellice.site
+
+# Collections configuration
+collections:
+  # Blog posts
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Tagline", name: "tagline", widget: "string", required: false }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+  
+  # Italian pages (root)
+  - name: "pages_it"
+    label: "Pages (Italian)"
+    files:
+      - label: "Home (IT)"
+        name: "index_it"
+        file: "index.md"
+        preview_path: "/"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "front" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false, hint: "FontAwesome icon name (e.g., fa-home)" }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About (IT)"
+        name: "about_it"
+        file: "about.md"
+        preview_path: "/about"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false, hint: "FontAwesome icon name (e.g., fa-info-circle)" }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact (IT)"
+        name: "contact_it"
+        file: "contact.md"
+        preview_path: "/contact"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false, hint: "FontAwesome icon name" }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prodotti (IT)"
+        name: "prodotti_it"
+        file: "prodotti.md"
+        preview_path: "/prodotti"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Spazi (IT)"
+        name: "spazi_it"
+        file: "spazi.md"
+        preview_path: "/spazi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Stanze (IT)"
+        name: "stanze_it"
+        file: "stanze.md"
+        preview_path: "/stanze"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Animali (IT)"
+        name: "animali_it"
+        file: "animali.md"
+        preview_path: "/animali"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prezzi (IT)"
+        name: "prezzi_it"
+        file: "prezzi.md"
+        preview_path: "/prezzi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Regina (IT)"
+        name: "regina_it"
+        file: "regina.md"
+        preview_path: "/regina"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Past (IT)"
+        name: "past_it"
+        file: "past.md"
+        preview_path: "/past"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+  
+  # English pages
+  - name: "pages_en"
+    label: "Pages (English)"
+    files:
+      - label: "Home (EN)"
+        name: "index_en"
+        file: "en/index.md"
+        preview_path: "/en/"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "front" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About (EN)"
+        name: "about_en"
+        file: "en/about.md"
+        preview_path: "/en/about"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact (EN)"
+        name: "contact_en"
+        file: "en/contact.md"
+        preview_path: "/en/contact"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prodotti (EN)"
+        name: "prodotti_en"
+        file: "en/prodotti.md"
+        preview_path: "/en/prodotti"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Spazi (EN)"
+        name: "spazi_en"
+        file: "en/spazi.md"
+        preview_path: "/en/spazi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Stanze (EN)"
+        name: "stanze_en"
+        file: "en/stanze.md"
+        preview_path: "/en/stanze"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Animali (EN)"
+        name: "animali_en"
+        file: "en/animali.md"
+        preview_path: "/en/animali"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prezzi (EN)"
+        name: "prezzi_en"
+        file: "en/prezzi.md"
+        preview_path: "/en/prezzi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Regina (EN)"
+        name: "regina_en"
+        file: "en/regina.md"
+        preview_path: "/en/regina"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Past (EN)"
+        name: "past_en"
+        file: "en/past.md"
+        preview_path: "/en/past"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+  
+  # German pages
+  - name: "pages_de"
+    label: "Pages (German)"
+    files:
+      - label: "Home (DE)"
+        name: "index_de"
+        file: "de/index.md"
+        preview_path: "/de/"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "front" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About (DE)"
+        name: "about_de"
+        file: "de/about.md"
+        preview_path: "/de/about"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact (DE)"
+        name: "contact_de"
+        file: "de/contact.md"
+        preview_path: "/de/contact"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prodotti (DE)"
+        name: "prodotti_de"
+        file: "de/prodotti.md"
+        preview_path: "/de/prodotti"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Spazi (DE)"
+        name: "spazi_de"
+        file: "de/spazi.md"
+        preview_path: "/de/spazi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Stanze (DE)"
+        name: "stanze_de"
+        file: "de/stanze.md"
+        preview_path: "/de/stanze"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Animali (DE)"
+        name: "animali_de"
+        file: "de/animali.md"
+        preview_path: "/de/animali"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prezzi (DE)"
+        name: "prezzi_de"
+        file: "de/prezzi.md"
+        preview_path: "/de/prezzi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Regina (DE)"
+        name: "regina_de"
+        file: "de/regina.md"
+        preview_path: "/de/regina"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Past (DE)"
+        name: "past_de"
+        file: "de/past.md"
+        preview_path: "/de/past"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+  
+  # French pages
+  - name: "pages_fr"
+    label: "Pages (French)"
+    files:
+      - label: "Home (FR)"
+        name: "index_fr"
+        file: "fr/index.md"
+        preview_path: "/fr/"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "front" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About (FR)"
+        name: "about_fr"
+        file: "fr/about.md"
+        preview_path: "/fr/about"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact (FR)"
+        name: "contact_fr"
+        file: "fr/contact.md"
+        preview_path: "/fr/contact"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prodotti (FR)"
+        name: "prodotti_fr"
+        file: "fr/prodotti.md"
+        preview_path: "/fr/prodotti"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Spazi (FR)"
+        name: "spazi_fr"
+        file: "fr/spazi.md"
+        preview_path: "/fr/spazi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Stanze (FR)"
+        name: "stanze_fr"
+        file: "fr/stanze.md"
+        preview_path: "/fr/stanze"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Animali (FR)"
+        name: "animali_fr"
+        file: "fr/animali.md"
+        preview_path: "/fr/animali"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Prezzi (FR)"
+        name: "prezzi_fr"
+        file: "fr/prezzi.md"
+        preview_path: "/fr/prezzi"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Regina (FR)"
+        name: "regina_fr"
+        file: "fr/regina.md"
+        preview_path: "/fr/regina"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Past (FR)"
+        name: "past_fr"
+        file: "fr/past.md"
+        preview_path: "/fr/past"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string", required: false }
+          - { label: "Icon", name: "icon", widget: "string", required: false }
+          - { label: "Group", name: "group", widget: "select", options: ["navigation", "footer"], required: false }
+          - { label: "Body", name: "body", widget: "markdown" }
