@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Prezzi
+tagline: ''
+icon: euro
 group: navigation
 lang: it
-icon: euro
 ---
 
 <img src="/assets/images/mausset-panorama-no-text-v3.jpg" class="img-block">
@@ -13,10 +14,10 @@ icon: euro
 ### Prezzi Base per 2 Persone
 
 | Stagione | Prezzo Notte | Prezzo Settimana |
-|----------|--------------|-----------------|
-| Bassa Stagione (Estate) | €70 | €450 |
-| Media Stagione (Primavera/Autunno) | €80 | €550 |
-| Alta Stagione (Inverno) | €80 | €550 |
+| --- | --- | --- |
+| Bassa Stagione (Inverno) | €70 | €450 |
+| Media Stagione (Primavera/Autunno) | €75 | €500 |
+| Alta Stagione (Estate) | €80 | €550 |
 
 ### Informazioni Importanti
 
@@ -38,4 +39,4 @@ Vi consigliamo di contattarci direttamente per discutere delle vostre esigenze e
 
 ---
 
-<a href="/past.html#top" title="Storia"><b><< INDIETRO</b></a> &#124; <a href="/contact.html#top" title="Come Trovarci"><b>AVANTI >></b></a>
+<a href="/past.html#top" title="Storia"><b><< INDIETRO</b></a> | <a href="/contact.html#top" title="Come Trovarci"><b>AVANTI >></b></a>
