@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Prices
+tagline: ''
+icon: euro
 group: navigation
 lang: en
-icon: euro
 ---
 
 <img src="/assets/images/mausset-panorama-no-text-v3.jpg" class="img-block">
@@ -13,17 +14,17 @@ icon: euro
 ### Base Prices for 2 People
 
 | Season | Price per Night | Price per Week |
-|--------|-----------------|-----------------|
-| Low Season (Summer) | €70 | €450 |
-| Mid Season (Spring/Autumn) | €80 | €550 |
-| High Season (Winter) | €80 | €550 |
+| --- | --- | --- |
+| Low Season (Winter) | €70 | €450 |
+| Mid-Season (Spring/Autumn) | €75 | €500 |
+| High Season (Summer) | €80 | €550 |
 
 ### Important Information
 
-- The amount is calculated based on the **room chosen** not the number of people occupying it
-- **Reservation a few days in advance is essential**, especially during the winter period
-- In winter the highest rate applies due to the need for adequate heating of the rooms
-- Prices are for a base of 2 people; for additional guests please contact us for information
+- The amount is calculated based on the **room chosen, **Mid-Season, not the number of people occupying it
+- **Reserving a few days in advance is essential**, especially during the summer period
+- In winter, the highest rate applies due to the need for adequate heating of the rooms
+- Prices are for a base of 2 people; for additional guests, don't hesitate to get in touch with us for information
 
 ### How to Book
 
@@ -38,4 +39,4 @@ We recommend contacting us directly to discuss your needs and receive personaliz
 
 ---
 
-<a href="/en/past.html#top" title="History"><b><< BACK</b></a> &#124; <a href="/en/contact.html#top" title="How to Find Us"><b>NEXT >></b></a>
+<a href="/en/past.html#top" title="History"><b><< BACK</b></a> | <a href="/en/contact.html#top" title="How to Find Us"><b>NEXT >></b></a>
